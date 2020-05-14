@@ -1,0 +1,12 @@
+* {
+    outline-width: 1px;
+    outline-style: solid;
+    outline-color: green; 
+  } 
+  
+.page {
+  min-width: 1440px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: 'Gilroy', Arial, sans-serif;
+}
