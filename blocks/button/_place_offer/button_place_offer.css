@@ -1,0 +1,23 @@
+.button_place_offer {
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    color: #FFF;
+    border: none;
+    background-color: #F7941E;
+    cursor: pointer;
+}
+
+.button_place_offer:hover {
+    transition-duration: 0.5s;
+    opacity: 60%;
+}
+
+.button_place_offer:active {
+    color: #F7941E;
+    border: 1px solid #F7941E;
+    background-color: transparent;
+}
+
+
+
