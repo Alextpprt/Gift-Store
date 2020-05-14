@@ -1,0 +1,11 @@
+@import url(./__description/offer__description.css);
+@import url(./__description-title/offer__description-title.css);
+@import url(./__description-text/offer__description-text.css);
+@import url(./__photo/offer__photo.css);
+
+
+.offer {
+    display: flex;
+    flex-direction: row;
+    background: #F1F1F2;
+}
