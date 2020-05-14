@@ -1,0 +1,20 @@
+.button_place_header {
+    width: 150px;
+    height: 43.5px;
+    text-align: center;
+    color: #F7941E;
+    border: 1px solid #F7941E;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.button_place_header:hover {
+    transition-duration: 0.5s;
+    opacity: 60%;
+}
+
+.button_place_header:active {
+    color: #FFF;
+    border: none;
+    background-color: #F7941E;
+}
