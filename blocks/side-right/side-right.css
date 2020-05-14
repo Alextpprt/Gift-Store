@@ -1,0 +1,4 @@
+.side-right {
+    display: flex;
+    flex-direction: row;
+}
