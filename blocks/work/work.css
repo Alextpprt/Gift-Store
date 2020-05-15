@@ -1,0 +1,9 @@
+@import url(./__description/work__description.css);
+@import url(./__photo/work__photo.css);
+@import url(./__description-title/work__description-title.css);
+
+.work {
+    display: flex;
+    flex-direction: row;
+    background: #F1F1F2;
+}
