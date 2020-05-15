@@ -6,6 +6,7 @@
     border: none;
     background-color: #F7941E;
     cursor: pointer;
+    margin-left: 162px;
 }
 
 .button_place_offer:hover {
